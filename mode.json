@@ -39,6 +39,12 @@
       "dir": true,
       "text": "Video"
     },
+	{
+      "id": "noi@china",
+      "parent": 0,
+      "dir": true,
+      "text": "China"
+    },
     {
       "id": "noi:chatgpt",
       "parent": "noi@ai",
@@ -194,6 +200,12 @@
       "parent": "noi@video",
       "text": "YouTube",
       "url": "https://www.youtube.com"
+    },
+	{
+      "id": "noi:天工音乐(AI写歌)",
+      "parent": "noi@china",
+      "text": "天工音乐(AI写歌)",
+      "url": "https://music.tiangong.cn/"
     }
   ]
 }
